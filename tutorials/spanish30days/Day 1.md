@@ -82,7 +82,7 @@ proveedores
 indemnización
 cláusula
 racional
-derogaroria
+derogatoria
 ```
 
 

@@ -38,11 +38,11 @@ La división de estas palabras en sílabas en el idioma español es muy fácil (
 En general, las palabras se dividen como si se pronunciaran de forma lenta y en voz alta.
 Hagamos un ejercicio pronunciando las siguientes palabras de esa forma:
 
-Com pe ti dor	=	4 sílabas	
-Ban de ra	=	3 sílabas
-A me ri ca no	=	5 sílabas
-ve hí cu lo	=	4 sílabas
-ve ne zo la no	=	5 sílabas
+Com pe ti dor	=	4 sílabas	<br>
+Ban de ra	=	3 sílabas <br>
+A me ri ca no	=	5 sílabas <br>
+ve hí cu lo	=	4 sílabas <br>
+ve ne zo la no	=	5 sílabas <br>
 
 Cuando dos vocales están una al lado de la otra, pueden haber ciertas dudas con respecto al número de sílabas. Por eso, antes de seguir, necesitas recordar que existen dos tipos de vocales: 
 
@@ -55,35 +55,19 @@ vocales fuertes: e  a 	o
 
 Saber a cuál tipo de vocal pertenece cada letra es muy importante; existen muchas palabras en donde se encuentran dos vocales fuertes en una misma sílaba. En este caso, cada una de estas vocales debe de ir en una sílaba diferente. Vamos con ejemplos:
 
-pe tró le o	=	4 sílabas
-a é re o	=	4 sílabas
-o cé a no	=	4 sílabas
-al co hó li co	=	5 sílabas
+pe tró le o	=	4 sílabas <br>
+a é re o	=	4 sílabas <br>
+o cé a no	=	4 sílabas <br>
+al co hó li co	=	5 sílabas <br>
 
 La letra "h" no se toma en cuenta para temas de acentuación; es como si no existiera.
+
+
 
 En el siguente ejercicio: debes de indicar el número de sílabas para cada palabra.
 
 
-```
-canción
-depreciación
-comercio
-acción
-exámenes
-cotización
-liquidez
-mercadeo
-petróleo
-injerencia
-amortizaciones
-oleoducto
-proveedores
-indemnización
-cláusula
-racional
-derogatoria
-```
+Cuestionario
 
 
-fin
+Preguntas...

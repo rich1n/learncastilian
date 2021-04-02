@@ -1,0 +1,14 @@
+### Fuentes
+font-family
+
+
+
+### Colores
+
+Letras tenues (Gris azulado): #9097AA
+
+Letras tenues 2: #5a71aa
+
+Fondo naranja: #F44A25
+
+

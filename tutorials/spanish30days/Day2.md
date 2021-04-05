@@ -1,141 +1,90 @@
 # DIA 2
 
 ================
+## Tipos de Palabras
 
-### Tipos de Palabras
+Con solo saber cuál es la sílaba tónica y el número de sílabas que tiene una palabra, podemos detectar de forma simple si tenemos una palabra Esdrújula, Grave o Aguda.
 
-Con solo saber cuántas sílabas tiene una palabra y saber cuál es la sílaba tónica, podemos adivinar de manera sencilla si esta palabra es **Esdrújula, Grave o Aguda**
+La sílaba tónica es una de las tres última sílabas que tiene una palabra.
 
-Es necesario saber esto para poder dominar la regla EGA; sílaba tónica es una de las tres últimas sílabas de la palabra:
+Palabra aguda: la tónica es la última: Si - llón
 
-Palabra Aguda: la última sílaba
-Palabra Grave: la penúltima sílaba
-Palabra Esdrújula: la antepenúltima sílaba
+Palabra grave: la tónica es la penúltima.: si - lla.
 
-
-Ejemplos y Selección
-
-```
-Compás
-herir
-despachó
-cantidad
-util
-comer
-tenis
-bebiendo
-catálogo
-comisario
-canción
-resumen
-cláusula
-```
-
-Nota: Las sobreesdrújulas se frecuentan poco ya que se tratan de verbos a los que se le han añadido dos pronombres
+Palabra esdrújula: la tónica es cualquier sílaba anterior a la penúltima: cé - lu - la.
 
 
-Ejercicios
+Ejemplos:
+
+**Solución (So - lu - ción)
+Tocón (To - cón)
+Civilización (Ci - vi - li - za - ción)
+Cayó (Ca - yó)
+Ópera (Ó - pe - ra)
+Gótico (Gó - ti - co)
+Oxígeno (O - xí - ge - no)
+Atendí (A - ten - dí)
+Capaz (Ca - paz)
+Canción (Can - ción)
+Patean (Pa - te - an)
+Carácter (Ca - rác - ter)
+María (Ma - rí - a)
+Temperatura (Tem - pe - ra - tu - ra)
+Común (Co - mún)
+Temblor (Tem -blor)
+Francés (Fran - cés)**
 
 
-Elija el tipo de palabra (Esdrújula, Grave, Aguda) correspondiente:
-```
-Nacional
-Herir
-Árbol
-Orden
-Órdenes
-Revisó
-Perspectiva
-Catálogo
-Catalogó
-Escritorio
-perdón
-cuéntalo
-```
+Palabras Agudas
 
-### Palabras Agudas
+Llleva tilde cuando terminan en vocal o con las consonantes N o S:
 
-Se acentúan ortográficamente (lleva tilde) cuando terminan en letra vocal o con las consonantes **N** o **S**:
+#### Vocal:
+##### Comerá
+##### Veré
+##### Panamá
+#### N:
+##### Jamón
+##### Revolución
+##### Camión
+#### S:
+##### Francés
+##### Inglés
+##### Japonés
 
-**Vocal**
-Llegará
-Diré
-Comerá
-Allá
-Canadá
-
-**N**
-Japón
-Canción
-Tazón
-Paquistán
-
-**S**
-revés
 
 ### Palabras Graves
- Se acentúa ortográficamente cuando terminan en consonante, excepto nen **N** o en **S** (opuesto a las agudas):
- 
-Difícil
-Árbol
-Carácter
+Llevan tilde cuando terminan en consonante (a excepción de la N o la S:
+
+##### Fémur
+##### Prócer
+##### Mástil
 
 ### Palabras Esdrújulas
-
 Siempre se acentúan
 
-Mecánica
-Órdenes
-Práctica
+##### Cámaras
+##### Cerámica
+##### Humorístico
+##### Ortográfico
+##### Máquina
+
+### Adverbios que terminan en "-mente"
+Mantienen la acentuación del adjetivo del cual derivan:
+
+##### Fácil - Fácilmente
+##### Rápido - Rápidamente
+##### Suave - Suavemente
 
 ### Palabras Monosílabas
+Las palabras de una sola sílaba no llevan tilde, pero existen casos especiales que detallaremos en las siguientes lecciones:
 
-Las palabras de una sola sílaba no llevan tilde, salvo casos especiales de la Real Academia Española de la Lengua; más adelante tocaremos estos casos especiales:
-
-**No llevan tilde**
-
-Fue
-Dio
-Pues
-Fui
-Vio
-Fe
-Da
-Di
-Ti
-
-### Adverbios terminados en "-mente"
-
-Los adverbios terminados en "-mente" mantienen la acentuación del adjetivo del cual derivan. En otras palabras, no se toma en cuenta la terminación "-mente" para aplicar la regla EGA:
-
-Rápido  Rápidamente
-Fácil   Fácilmente
-Inútil  Inútilmente
-Final   Finalmente
-
-### Práctica
-
-Colocar la tilde donde haga falta
-
-1. La imagen provee informacion util
-2. El catalogo presentara un perfil del producto
-3. Un joven agrewsivo lo ataco con un revolver
-4. El cesped crece bien en un terreno tan fertil
-5. Los constructores del tunel son muy habiles
-6. Se ignora el movil de la agresion
-7. Es una clausula de salvaguarda
-8. Era una tesis indudablemente verosimil
-9. No es dificil demarcar los margenes del area
-10. Los relojes estaban atrasados
-11. Se rompio el cable subterraneo del telefono
-12. Ha esc rito muy debilmente en el cuestionario
-13. Existe falta de liquidez debido al deficit
-14. El mercado de los oleos es muy restringido
-15. Se ignora la direccion actual del destinatario
-16. Se realizo un analisis del balance situacional
-17. Los proveedores especulan muy habilmente
-18. Fue inutil insistir en modificar la clausula
-19. Nadie vio el anuncio en el periodico
-20. El presidente nos mando una boletin
-
-### Compruebe sus respuestas
+##### Fue
+##### Dio
+##### Pues
+##### Fui
+##### Vio
+##### Fe
+##### Da
+##### Di
+##### Ti

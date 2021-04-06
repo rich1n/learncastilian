@@ -2,25 +2,36 @@
 
 Colocar la tilde donde haga falta
 
-1. La imagen provee informacion util
-2. El catalogo presentara un perfil del producto
-3. Un joven agrewsivo lo ataco con un revolver
-4. El cesped crece bien en un terreno tan fertil
-5. Los constructores del tunel son muy habiles
-6. Se ignora el movil de la agresion
-7. Es una clausula de salvaguarda
-8. Era una tesis indudablemente verosimil
-9. No es dificil demarcar los margenes del area
-10. Los relojes estaban atrasados
-11. Se rompio el cable subterraneo del telefono
-12. Ha esc rito muy debilmente en el cuestionario
-13. Existe falta de liquidez debido al deficit
-14. El mercado de los oleos es muy restringido
-15. Se ignora la direccion actual del destinatario
-16. Se realizo un analisis del balance situacional
-17. Los proveedores especulan muy habilmente
-18. Fue inutil insistir en modificar la clausula
-19. Nadie vio el anuncio en el periodico
-20. El presidente nos mando una boletin
+1. La abeja aletea rapidamente para volar.
+2. Las alas del murcielago pueden medir hasta 15 centimetros.
+3. Puedes ingresar el numero del telefono movil.
+4. No se si comprar un telefono nuevo o uno usado.
+5. El vehiculo que transportaba la mercancia tuvo un accidente.
+6. Es inutil subir esa montaña.
+7. El boletin informa sobre el articulo.
+8. Se realizo la reunión a pesar de la cuarentena.
+9. El balcon esta muy lejos de la habitacion.
+10. Estas mas alla que aqui.
+11. El jardin tiene muy bellas flores y bastantes areas verdes.
+12. Ser extranjero en otro pais nunca fue tan dificil.
+13. El reloj esta averiado.
+14. El margen de ganancia es poco.
+15. Escuchar musica te mejora el animo.
 
 ### Compruebe sus respuestas
+
+La abeja aletea rápidamente para volar.
+Las alas del murciélago pueden medir hasta 15 centímetros.
+Puedes ingresar el número del teléfono móvil.
+No sé si comprar un teléfono nuevo o uno usado.
+El vehículo que transportaba la mercancía tuvo un accidente.
+Es inútil subir esa montaña
+El boletín informa sobre el artículo.
+Se realizó la reunión, a pesar de la cuarentena.
+El balcón está muy lejos de mi habitación.
+Estás más allá que aquí.
+El jardín tiene muy bellas flores y bastantes áreas verdes.
+Ser extranjero en otro país nunca fue tan difícil.
+El reloj está averiado.
+El margen de ganancia es poco.
+Escuchar música te mejora el ánimo.

@@ -24,6 +24,7 @@ To-do-lists
 - [ ] Translations and ideas (and classes)
 - [ ] Dark mode
 - [ ] Fix mobile or PWA
+- [ ] Test [Video Calls](https://jitsi.org/)
 
 
 Contributors
